@@ -21,7 +21,7 @@ solana airdrop 5 user-wallet.json --url https://api.devnet.solana.com
 anchor build
 
 ## deploy program
-anchor deploy -k admin-wallet.json --url https://api.devnet.solana.com
+anchor deploy
 
 ## install dependencies
 yarn install
